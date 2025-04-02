@@ -7,6 +7,7 @@ public class A {
 
 		System.out.println("Primul mesaj");
 		System.out.println("Al doilea mesaj");
+		System.out.println("Al treilea mesaj");
 	}
 
 }
